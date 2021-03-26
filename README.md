@@ -9,3 +9,4 @@ Bootcamp da Alura de Desenvolvimento Front-End focado no desenvolvimento JavaScr
 1. <a href="aula01">Conversor de moedas e variávies</a>
 2. <a href="aula02">Calculadora</a>
 3. <a href="aula03">Mentalista e Números aleatórios</a>
+4. <a href="aula04">AluraFlix e Arrays</a>
