@@ -10,3 +10,5 @@ Bootcamp da Alura de Desenvolvimento Front-End focado no desenvolvimento JavaScr
 2. <a href="aula02">Calculadora</a>
 3. <a href="aula03">Mentalista e Números aleatórios</a>
 4. <a href="aula04">AluraFlix e Arrays</a>
+5. <a href="aula05">AluraFlix e Funções</a>
+6. <a href="aula06">Tabela de classificações e objetos no JS</a>
